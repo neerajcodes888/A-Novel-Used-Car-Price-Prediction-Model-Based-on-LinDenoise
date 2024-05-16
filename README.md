@@ -1,6 +1,6 @@
 <h1 align="center">🚗 A Novel Used Car Price Prediction Model Based on LinDenoise 📊</h1>
 <p align="center">
-  <img src="images/Screenshot 2024-05-11 102314.png" alt="Screenshot of the project" width="500">
+  <img src="images/p,.png" alt="Screenshot of the project" width="500">
 </p>
 
 
