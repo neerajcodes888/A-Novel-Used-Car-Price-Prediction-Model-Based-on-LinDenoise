@@ -1,17 +1,27 @@
-# A Novel Used Car Price Prediction Model Based on LinDenoise
+<h1 align="center">🚗 A Novel Used Car Price Prediction Model Based on LinDenoise 📊</h1>
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
+<h2 align="center">Table of Contents 📜</h2>
 
-## Introduction <a name="introduction"></a>
-Welcome to the README for our project, "A Novel Used Car Price Prediction Model Based on LinDenoise." This project aims to predict the prices of used cars using advanced machine learning techniques, particularly leveraging the LinDenoise algorithm. By applying this novel approach, we intend to provide more accurate and reliable predictions for the used car market.
+<p align="center">
+  <a href="#introduction">1. Introduction</a> •
+  <a href="#installation">2. Installation</a> •
+  <a href="#usage">3. Usage</a> •
+  <a href="#contributing">4. Contributing</a> •
+  <a href="#license">5. License</a>
+</p>
 
-## Installation <a name="installation"></a>
+<h2 align="center">Introduction 🌟</h2>
+
+<p align="justify">
+Welcome to the README for our project, "A Novel Used Car Price Prediction Model Based on LinDenoise." 🚀 This was our final semester college project, developed to revolutionize the used car market by offering advanced price prediction capabilities. Leveraging the innovative LinDenoise algorithm, we provide more accurate and reliable predictions, aiding both buyers and sellers in making informed decisions. 🛠️
+</p>
+
+<h2 align="center">Installation ⚙️</h2>
+
+<p align="justify">
 To use our model, follow these installation steps:
+</p>
+
 1. Clone this repository to your local machine.
 2. Install the required dependencies by running:
    ```bash
