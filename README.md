@@ -1,9 +1,6 @@
 <h1 align="center">🚗 A Novel Used Car Price Prediction Model Based on LinDenoise 📊</h1>
-<p align-"center>
-  
-![image](https://github.com/neerajcodes888/A-Novel-Used-Car-Price-Prediction-Model-Based-on-LinDenoise/assets/98253646/e2880db6-b7ad-43e7-beb7-9d5451fb2aba)
-
-
+<p align="center">
+  <img src="images/Screenshot 2024-05-11 102314.png" alt="Screenshot of the project" width="500">
 </p>
 
 
