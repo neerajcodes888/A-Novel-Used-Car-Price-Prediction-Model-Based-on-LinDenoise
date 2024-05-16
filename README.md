@@ -13,7 +13,7 @@
 <h2 align="center">Introduction 🌟</h2>
 
 <p align="justify">
-Welcome to the README for our project, "A Novel Used Car Price Prediction Model Based on LinDenoise." 🚀 This was our final semester college project, developed to revolutionize the used car market by offering advanced price prediction capabilities. Leveraging the innovative LinDenoise algorithm, we provide more accurate and reliable predictions, aiding both buyers and sellers in making informed decisions. 🛠️
+Welcome to the README for my project, "A Novel Used Car Price Prediction Model Based on LinDenoise." 🚀 This was my final semester college project, developed to revolutionize the used car market by offering advanced price prediction capabilities. Leveraging the innovative LinDenoise algorithm, we provide more accurate and reliable predictions, aiding both buyers and sellers in making informed decisions. 🛠️
 </p>
 
 <h2 align="center">Installation ⚙️</h2>
@@ -26,3 +26,5 @@ To use our model, follow these installation steps:
 2. Install the required dependencies by running:
    ```bash
    pip install -r requirements.txt
+   ```
+   
